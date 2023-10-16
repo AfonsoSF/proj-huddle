@@ -63,7 +63,7 @@ body{
 .rodape img{
     margin-right: 10px;
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:500px){
     body{
         background-image: url(images/bg-mobile.svg);
         background-repeat: no-repeat;
